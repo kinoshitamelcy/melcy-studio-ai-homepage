@@ -1,2 +1,22 @@
-# melcy-studio-ai-homepage
-Melcy Studio ai — AI業務効率化・自動化・LINE公式アカウント構築・AI画像制作のホームページ
+# Melcy Studio ai
+
+AIによる業務効率化・自動化ツール制作・LINE公式アカウント構築・AI画像制作を紹介するホームページです。白とライムグリーン（#C7F464）を基調にしています。
+
+## 表示
+
+公開用のHTML・CSS・JavaScript・画像は `docs/` にあります。GitHub Pagesは `main` ブランチの `/docs` から配信します。
+
+ローカルでは次のコマンドで表示できます。
+
+```sh
+python3 -m http.server 4173 --bind 127.0.0.1 --directory docs
+```
+
+## 機能
+
+- PC・スマートフォン対応
+- サービス・プロフィール・作品紹介
+- 作品の拡大プレビュー
+- メール・電話・Instagramへのリンク
+
+作品はCanva掲載作品のプレビュー解像度です。フォーム送信や課金処理、有料API、アクセス追跡は使用していません。ソース公開は作品の権利放棄を意味しません。
