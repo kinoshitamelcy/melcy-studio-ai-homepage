@@ -1,0 +1,12 @@
+[
+ {"file":"assets/work-automation.png","assetId":"source-page-4","sourcePage":4,"caption":"AIによる業務効率化・AIエージェント・AI社員の制作例","alt":"AI業務効率化のイメージとAI社員アプリの画面をまとめたポートフォリオ","width":600,"height":337},
+ {"file":"assets/work-landscape.png","assetId":"source-page-5","sourcePage":5,"caption":"光や時間帯を表現するAI風景作品","alt":"都市、海辺、森、水中世界、宇宙を表現したAI風景作品集","width":600,"height":337},
+ {"file":"assets/work-line.png","assetId":"MAHYuhz_458","sourcePage":6,"caption":"LINE公式アカウントの構築例","alt":"Canvaに掲載されたLINE公式アカウントの管理画面の制作例","width":600,"height":337},
+ {"file":"assets/work-manga.png","assetId":"MAHTqOYh0Sw","sourcePage":7,"caption":"日々の仕事の困りごとを描いた4コマ漫画","alt":"書類やExcel作業に悩む人物を描いた4コマ漫画の作品例","width":600,"height":337},
+ {"file":"assets/landscape-city.png","assetId":"MAHRqsuWE94","sourcePage":5,"caption":"青空と街並み","alt":"青い空の下、ヤシの木が並ぶ街路を描いたAI風景作品","width":141,"height":200},
+ {"file":"assets/landscape-beach.png","assetId":"MAHQvQtQyrg","sourcePage":5,"caption":"陽光のビーチ","alt":"ヤシの木と白い砂浜、青い海を描いたAI風景作品","width":141,"height":200},
+ {"file":"assets/landscape-underwater.png","assetId":"MAHNqY2WFXM","sourcePage":5,"caption":"光が届く水中都市","alt":"光が差し込む幻想的な水中都市を描いたAI作品","width":200,"height":141},
+ {"file":"assets/landscape-forest.png","assetId":"MAHNqqUIuc4","sourcePage":5,"caption":"夕暮れの森","alt":"夕暮れの水辺と光を放つ生き物を描いたAI風景作品","width":200,"height":141},
+ {"file":"assets/landscape-space.png","assetId":"MAHMu3KH_pM","sourcePage":5,"caption":"宇宙の風景","alt":"惑星と宇宙空間を描いたAI作品","width":133,"height":200},
+ {"file":"assets/ai-coding.png","assetId":"MAHYuWjjmqY","sourcePage":4,"caption":"AIと自動化を表現した制作例","alt":"夜の街並みを背景に複数の画面へ向かう人物を描いたAI画像","width":200,"height":112}
+]
